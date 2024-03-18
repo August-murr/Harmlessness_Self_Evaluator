@@ -6,8 +6,6 @@ This module is a part of the Mistral Self-Alignment project, aimed at aligning t
 
 The Mistral Harmlessness Evaluator is designed to test the harmlessness of the trained Mistral 7b Peft Adapters. The evaluation is based on a one-shot prompt test available [here](https://github.com/August-murr/Lab/tree/main/Self-evaluation), resulting in an 82% agreement with labeled data.
 
-Although the module was initially written to test Peft Adapters, a Jupyter Notebook was uploaded [here] to evaluate the base Mistral model for harmlessness.
-
 ## Usage
 
 ### Installation
